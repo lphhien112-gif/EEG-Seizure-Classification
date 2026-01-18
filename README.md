@@ -37,5 +37,4 @@ Quy trình nghiên cứu của chúng tôi bao gồm bốn giai đoạn chính:
 
 ## Cài đặt và Chạy Dự án
 Để chạy dự án, bạn cần cài đặt các thư viện Python sau:
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+```
